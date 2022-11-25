@@ -35,8 +35,8 @@ Allow same character selection in 2-player mode.
 Unlocks a Test/Debug menu with tons of options. To access it, hold select at the Capcom logo until it fades out.
 
 - [Mighty Morphin Power Rangers: The Movie (USA)](https://tcrf.net/Mighty_Morphin_Power_Rangers:_The_Movie_(SNES)#Test_Mode):
-Unlocks a Test menu that contains a sprite viewer and a broken sound test menu. To access it, highlight Option at the title screen, hold L and press Start.
+Unlocks a Test menu that contains a sprite viewer and a (broken) sound test mode. To access it, highlight Option at the title screen, hold L and press Start.
 Level selection is also available at the title screen by pressing Y or B to increase/decrease the starting level number (The game only contains 7 levels so selecting a greater number will freeze the game).
 
 - [Saturday Night Slam Masters (USA)](https://gamefaqs.gamespot.com/snes/588642-saturday-night-slam-masters/cheats):
-Allow same character selection in multiplayer mode (Team Battle Royale) and allow the use of Scorpion and Jumbo in Single Match mode (note that their character icons will remain invisible on the select screen)
+Allow same character selection in multiplayer mode (Team Battle Royale) and the use of Scorpion and Jumbo in Single Match mode (note that their character icons will remain invisible on the select screen)
