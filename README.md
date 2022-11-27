@@ -28,6 +28,9 @@ Unlocks a Cheat menu in the Options, with the following features: Player 1/2 ski
 
 # Super Nintendo Entertainment System (SNES)
 
+- [Fatal Fury Special (USA)](https://gamefaqs.gamespot.com/snes/588325-fatal-fury-special/cheats):
+Unlocks Ryo Sakazaki from Art of Fighting.
+
 - [Final Fight 2 (USA)](https://gamefaqs.gamespot.com/snes/588333-final-fight-2/cheats):
 Allow same character selection in 2-player mode.
 
