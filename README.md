@@ -31,6 +31,12 @@ Unlocks a Cheat menu in the Options, with the following features: Player 1/2 ski
 - [Brutal: Paws of Fury (USA)](https://gamefaqs.gamespot.com/snes/563531-brutal-paws-of-fury/cheats):
 Unlocks a secret boss character: Dali Llama.
 
+- [Combatribes, The (USA)](https://gamefaqs.gamespot.com/snes/588261-the-combatribes/cheats):
+Unlocks all the secret characters in Versus mode. Also allows same character selection in 2-player story mode.
+
+- [Double Dragon V: The Shadow Falls (USA)](https://gamefaqs.gamespot.com/jaguar/586883-double-dragon-v-the-shadow-falls/cheats):
+Unlocks 2 secret boss characters: Dominique and Shadow Master.
+
 - [Fatal Fury Special (USA)](https://gamefaqs.gamespot.com/snes/588325-fatal-fury-special/cheats):
 Unlocks a secret character: Ryo Sakazaki from Art of Fighting.
 
@@ -44,8 +50,17 @@ Unlocks a Test/Debug menu with tons of options. To access it, hold select at the
 Unlocks a Test menu that contains a sprite viewer and a (broken) sound test mode. To access it, highlight Option at the title screen, hold L and press Start.
 Level selection is also available at the title screen by pressing Y or B to increase/decrease the starting level number (The game only contains 7 levels so selecting a greater number will freeze the game).
 
+- [Peace Keepers, The (USA)](https://gamefaqs.gamespot.com/snes/588561-the-peace-keepers/cheats):
+Unlocks 2 secret characters: Norton and Orbot. Allows same character selection in Story mode. Flynn can transform into Super Flynn at will by holding R and pressing X. 
+
+- [Primal Rage (USA)](https://gamefaqs.gamespot.com/snes/588587-primal-rage/cheats):
+Unlocks a Cheat menu on the main menu.
+
 - [Saturday Night Slam Masters (USA)](https://gamefaqs.gamespot.com/snes/588642-saturday-night-slam-masters/cheats):
 Allows same character selection in multiplayer mode (Team Battle Royale) and the use of Scorpion and Jumbo in Single Match mode (note that their character icons will remain invisible on the select screen).
+
+- [Street Fighter II (USA)](https://gamefaqs.gamespot.com/snes/588700-street-fighter-ii/cheats):
+Allows same character selection in versus mode and alternatative character color palettes (aka Championship mode). Highlight a character and press Start to select the championship colors.
 
 - [Teenage Mutant Ninja Turtles: Tournament Fighters (USA)](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Tournament_Fighters#Super_NES_version)
 Unlocks 2 secret characters in Versus mode: Rat King and Karai. Unlock 2 additional stages in Versus mode. Grants the player access to the hi-speed 3 feature in the Options menu. Allows the player to select up to 10 credits for Story Mode in the in-game options menu.
