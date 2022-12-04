@@ -15,7 +15,7 @@ Unlocks the 2 bosses Gouriki and Reiji.
 Note: This patch was made using the [N64 Gameshark Code Injector](https://www.romhacking.net/utilities/1659) by triclon and will require an Expansion Pak.
 
 - [Duke Nukem 64 (USA)](https://tcrf.net/Duke_Nukem_64):
-Increases the number of players in Cooperative mode from 2 to 4 (the menu has been updated to reflect that change and will read "4-P COOP"). Also unlocks a Cheats menu on the main menu.
+Increases the number of players in Cooperative mode from 2 to 4. Note that cooperative games will always be in 4-player mode regardless of the number of controllers plugged in (the menu has been updated to reflect that change and will read "4-P COOP"). Also unlocks a Cheats menu on the main menu. 
 
 - [Iron Commando - Koutetsu no Senshi (Japan)](https://gamefaqs.gamespot.com/snes/571224-iron-commando-koutetsu-no-senshi/cheats):
 Unlocks level selection in the Option menu.
