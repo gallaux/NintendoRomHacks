@@ -17,6 +17,9 @@ Note: This patch was made using the [N64 Gameshark Code Injector](https://www.ro
 - [Duke Nukem 64 (USA)](https://tcrf.net/Duke_Nukem_64):
 Increases the number of players in Cooperative mode from 2 to 4 (the menu has been updated to reflect that change and will read "4-P COOP"). Also unlocks a Cheats menu on the main menu.
 
+- [Iron Commando - Koutetsu no Senshi (Japan)](https://gamefaqs.gamespot.com/snes/571224-iron-commando-koutetsu-no-senshi/cheats):
+Unlocks level selection in the Option menu.
+
 - [Mace - The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/197812-mace-the-dark-age/cheats):
 Unlocks 2 secret characters: War Mech and Ichiro.
 
