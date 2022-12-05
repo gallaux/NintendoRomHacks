@@ -17,9 +17,6 @@ Note: This patch was made using the [N64 Gameshark Code Injector](https://www.ro
 - [Duke Nukem 64 (USA)](https://tcrf.net/Duke_Nukem_64):
 Increases the number of players in Cooperative mode from 2 to 4. Note that cooperative games will always be in 4-player mode regardless of the number of controllers plugged in (the menu has been updated to reflect that change and will read "4-P COOP"). Also unlocks a Cheats menu on the main menu. 
 
-- [Iron Commando - Koutetsu no Senshi (Japan)](https://gamefaqs.gamespot.com/snes/571224-iron-commando-koutetsu-no-senshi/cheats):
-Unlocks level selection in the Option menu.
-
 - [Mace - The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/197812-mace-the-dark-age/cheats):
 Unlocks 2 secret characters: War Mech and Ichiro.
 
@@ -54,6 +51,9 @@ Allows same character selection in 2-player mode.
 
 - [Final Fight 3 (USA)](https://tcrf.net/Final_Fight_3_(SNES)#Debug_Mode):
 Unlocks a Test/Debug menu with tons of options. To access it, hold select at the Capcom logo until it fades out.
+
+- [Iron Commando - Koutetsu no Senshi (Japan)](https://gamefaqs.gamespot.com/snes/571224-iron-commando-koutetsu-no-senshi/cheats):
+Unlocks level selection in the Option menu.
 
 - [Mighty Morphin Power Rangers: The Movie (USA)](https://tcrf.net/Mighty_Morphin_Power_Rangers:_The_Movie_(SNES)#Test_Mode):
 Unlocks a Test menu that contains a sprite viewer and a (broken) sound test mode. To access it, highlight Option at the title screen, hold L and press Start.
