@@ -23,6 +23,9 @@ Unlocks level selection in the Option menu.
 - [Mace - The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/197812-mace-the-dark-age/cheats):
 Unlocks 2 secret characters: War Mech and Ichiro.
 
+- [Mortal Kombat Trilogy (USA) (Rev B)](https://www.gamespot.com/games/mortal-kombat-trilogy/cheats/):
+Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus in the Options.
+
 - [Quake 64 (USA)](https://gamefaqs.gamespot.com/n64/198375-quake/cheats):
 Unlocks a Debug menu in the Options, with the following features: Map selection, god mode (invincibility), all weapons, and target.
 
