@@ -27,7 +27,7 @@ Unlocks 2 secret characters: War Mech and Ichiro.
 Unlocks a Debug menu in the Options, with the following features: Map selection, god mode (invincibility), all weapons, and target.
 
 - [Rampage 2 - Universal Tour (USA)](https://gamefaqs.gamespot.com/n64/198408-rampage-2-universal-tour/cheats):
-Unlocks 4 secret characters: George, Lizzie, Myukus, and Ralph.
+Unlocks 4 secret characters: George, Lizzie, Myukus, and Ralph, as well as a Cheat menu in the Options.
 
 - [War Gods (USA)](https://gamefaqs.gamespot.com/n64/199248-war-gods/cheats):
 Unlocks a Cheat menu in the Options, with the following features: Player 1/2 skill level, Level selection, game timer, and easy fatality.
