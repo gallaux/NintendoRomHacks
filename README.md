@@ -4,7 +4,7 @@ These improvement patches are fully compatible with real hardware and unlock ext
 
 # Nintendo 64 (use Big Endian/.z64 roms)
 
-- [Clay Fighter - Sculptor's Cut (USA)](https://gamefaqs.gamespot.com/n64/574483-clayfighter-the-sculptors-cut/cheats):
+- [Clay Fighter: Sculptor's Cut (USA)](https://gamefaqs.gamespot.com/n64/574483-clayfighter-the-sculptors-cut/cheats):
 Unlocks 4 [secret characters](https://www.youtube.com/watch?v=pZLJLsobgaA) that can be accessed by first highlighting one of the two ? boxes and hitting R or L to pick a secret character: Booger Man, Earthworm Jim, High Five, and Sumo Santa.
 
 - [Dark Rift (USA)](https://gamefaqs.gamespot.com/n64/197049-dark-rift/cheats):
@@ -17,7 +17,7 @@ Note: This patch was made using the [N64 Gameshark Code Injector](https://www.ro
 - [Duke Nukem 64 (USA)](https://tcrf.net/Duke_Nukem_64):
 Increases the number of players in Cooperative mode from 2 to 4. Note that cooperative games will always be in 4-player mode regardless of the number of controllers plugged in (the menu has been updated to reflect that change and will read "4-P COOP"). Also unlocks a Cheats menu on the main menu. 
 
-- [Mace - The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/197812-mace-the-dark-age/cheats):
+- [Mace: The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/197812-mace-the-dark-age/cheats):
 Unlocks 2 secret characters: War Mech and Ichiro.
 
 - [Mortal Kombat Trilogy (USA) (Rev B)](https://www.gamespot.com/games/mortal-kombat-trilogy/cheats/):
@@ -26,7 +26,7 @@ Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus
 - [Quake 64 (USA)](https://gamefaqs.gamespot.com/n64/198375-quake/cheats):
 Unlocks a Debug menu in the Options, with the following features: Map selection, god mode (invincibility), all weapons, and target.
 
-- [Rampage 2 - Universal Tour (USA)](https://gamefaqs.gamespot.com/n64/198408-rampage-2-universal-tour/cheats):
+- [Rampage 2: Universal Tour (USA)](https://gamefaqs.gamespot.com/n64/198408-rampage-2-universal-tour/cheats):
 Unlocks 4 secret characters: George, Lizzie, Myukus, and Ralph, as well as a Cheat menu in the Options.
 
 - [War Gods (USA)](https://gamefaqs.gamespot.com/n64/199248-war-gods/cheats):
@@ -52,7 +52,7 @@ Allows same character selection in 2-player mode.
 - [Final Fight 3 (USA)](https://tcrf.net/Final_Fight_3_(SNES)#Debug_Mode):
 Unlocks a Test/Debug menu with tons of options. To access it, hold select at the Capcom logo until it fades out.
 
-- [Iron Commando - Koutetsu no Senshi (Japan)](https://gamefaqs.gamespot.com/snes/571224-iron-commando-koutetsu-no-senshi/cheats):
+- [Iron Commando: Koutetsu no Senshi (Japan)](https://gamefaqs.gamespot.com/snes/571224-iron-commando-koutetsu-no-senshi/cheats):
 Unlocks level selection in the Option menu.
 
 - [Mighty Morphin Power Rangers: The Movie (USA)](https://tcrf.net/Mighty_Morphin_Power_Rangers:_The_Movie_(SNES)#Test_Mode):
