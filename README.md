@@ -15,7 +15,7 @@ Unlocks the 2 bosses Gouriki and Reiji.
 Note: This patch was made using the [N64 Gameshark Code Injector](https://www.romhacking.net/utilities/1659) by triclon and will require an Expansion Pak.
 
 - [Duke Nukem 64 (USA)](https://tcrf.net/Duke_Nukem_64#Number_of_Players_.28change_the_last_number_in_HEX.29):
-Increases the maximum number of players in Cooperative mode from 2 to 4. This hack is a lot more involved than the others I've made so far:
+Increases the maximum number of players in Cooperative mode from 2 to 4. This hack is a bit more involved than most of the others:
 Coop games will start with 2 to 4 players, depending on the number of controllers plugged in when the game booted.
 
 - [Mace: The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/197812-mace-the-dark-age/cheats):
