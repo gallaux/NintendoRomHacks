@@ -14,14 +14,18 @@ Unlocks the 2 bosses Sonork and Demitron as playable characters.
 Unlocks the 2 bosses Gouriki and Reiji.
 Note: This patch was made using the [N64 Gameshark Code Injector](https://www.romhacking.net/utilities/1659) by triclon and will require an Expansion Pak.
 
+- [Diddy Kong Racing (USA) (Rev A)](https://gamefaqs.gamespot.com/n64/197118-diddy-kong-racing/cheats/):
+Unlocks 2 secret characters: Drumstick and T.T.
+Also unlocks all the magic/cheat codes and turns on "Select same player" and "Two player adventure" by default.
+
 - [Duke Nukem 64 (USA)](https://tcrf.net/Duke_Nukem_64#Number_of_Players_.28change_the_last_number_in_HEX.29):
 Increases the maximum number of players in Cooperative mode from 2 to 4. This hack is a bit more involved than most of the others:
 Coop games will start with 2 to 4 players, depending on the number of controllers plugged in when the game booted.
 
-- [Mace: The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/197812-mace-the-dark-age/cheats):
+- [Mace: The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/583594-mace-the-dark-age/cheats):
 Unlocks 2 secret characters: War Mech and Ichiro.
 
-- [Mortal Kombat Trilogy (USA) (Rev B)](https://www.gamespot.com/games/mortal-kombat-trilogy/cheats/):
+- [Mortal Kombat Trilogy (USA) (Rev B)](https://gamefaqs.gamespot.com/ps/197997-mortal-kombat-trilogy/cheats):
 Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus in the Options.
 
 - [Quake 64 (USA)](https://gamefaqs.gamespot.com/n64/198375-quake/cheats):
