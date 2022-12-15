@@ -38,7 +38,7 @@ Unlocks 6 secret characters: George, Lizzie, Ralph, Myukus, Noobus (black Myukus
 Also unlocks a Cheat menu in the Options.
 
 - [Robotron 64 (USA)](https://gamefaqs.gamespot.com/n64/198501-robotron-64/cheats):
-Unlocks a Level selection option in the Setup menu.
+Unlocks level selection in the Setup menu.
 
 - [Star Fox 64 (USA) (Rev A)](https://gamefaqs.gamespot.com/n64/198759-star-fox-64/cheats):
 Grants all 15 medals, which unlocks the following features: Expert mode, play on foot or tank in multiplayer mode, sound test, and alternate title screen.
