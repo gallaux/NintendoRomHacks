@@ -25,7 +25,10 @@ Increases the maximum number of players in Cooperative mode from 2 to 4. This ha
 Coop games will start with 2 to 4 players, depending on the number of controllers plugged in when the game booted.
 
 - [Mace: The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/583594-mace-the-dark-age/cheats):
-Unlocks 2 secret characters: War Mech and Ichiro.
+Unlocks 5 secret characters: War Mech, Ichiro, Grendal, Pojo, and Ned (a secret skin for Xiao Long). Note that Grendal, Pojo, and Ned were never intended to be directly selectable and playing them required complex setup.
+To select Grendal, highlight War Mech and press Z (pressing Z again will switch back to War Mech).
+To select Pojo, highlight Ichiro and press Z (pressing Z again will switch back to Ichiro).
+Similarly, to select Ned, highlight Xiao Long and press Z (pressing Z again will switch back to Xiao Long).
 
 - [Mortal Kombat Trilogy (USA) (Rev B)](https://gamefaqs.gamespot.com/ps/197997-mortal-kombat-trilogy/cheats):
 Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus in the Options.
