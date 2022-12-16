@@ -41,7 +41,7 @@ Also unlocks a Cheat menu in the Options.
 Unlocks level selection in the Setup menu.
 
 - [Star Fox 64 (USA) (Rev A)](https://gamefaqs.gamespot.com/n64/198759-star-fox-64/cheats):
-Grants all 15 medals, which unlocks the following features: Expert mode, play on foot or tank in multiplayer mode, sound test, and alternate title screen.
+Grants all 15 medals in both Normal (and Expert modes), which unlocks the following features: Expert mode, play on foot or tank in multiplayer mode, sound test, and alternate title screen.
 
 - [War Gods (USA)](https://gamefaqs.gamespot.com/n64/199248-war-gods/cheats):
 Unlocks a Cheat menu in the Options, with the following features: Player 1/2 skill level, Level selection, game timer, and easy fatality.
