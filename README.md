@@ -6,6 +6,9 @@ My hacks can also be found on [romhacking.net](https://www.romhacking.net/commun
 
 # Nintendo 64 (use Big Endian/.z64 roms)
 
+- [ClayFighter 63⅓ (USA)](https://gamefaqs.gamespot.com/n64/196934-clayfighter-63-1-3/cheats):
+Unlocks 3 secret characters: Sumo Santa, Dr. Kiln, and Boogerman. Also unlocks a Secret Options menu in Options.
+
 - [Clay Fighter: Sculptor's Cut (USA)](https://gamefaqs.gamespot.com/n64/574483-clayfighter-the-sculptors-cut/cheats):
 Unlocks 4 [secret characters](https://www.youtube.com/watch?v=pZLJLsobgaA) that can be accessed by first highlighting one of the two ? boxes and hitting R or L to pick a secret character: Booger Man, Earthworm Jim, High Five, and Sumo Santa.
 
