@@ -16,8 +16,7 @@ Unlocks 4 [secret characters](https://www.youtube.com/watch?v=pZLJLsobgaA) that 
 Unlocks the 2 bosses Sonork and Demitron as playable characters.
 
 - [Deadly Arts (USA)](https://gamefaqs.gamespot.com/n64/197070-deadly-arts/cheats) aka G.A.S.P!! Fighters' NEXTream:
-Unlocks the 2 bosses Gouriki and Reiji.
-Note: This patch was made using the [N64 Gameshark Code Injector](https://www.romhacking.net/utilities/1659) by triclon and will require an Expansion Pak.
+Unlocks the 2 bosses Gouriki and Reiji as playable characters.
 
 - [Diddy Kong Racing (USA) (Rev A)](https://gamefaqs.gamespot.com/n64/197118-diddy-kong-racing/cheats/):
 Unlocks 2 secret characters: Drumstick and T.T.
