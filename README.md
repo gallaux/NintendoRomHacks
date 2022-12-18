@@ -15,7 +15,7 @@ Unlocks 4 [secret characters](https://www.youtube.com/watch?v=pZLJLsobgaA) that 
 - [Dark Rift (USA)](https://gamefaqs.gamespot.com/n64/197049-dark-rift/cheats):
 Unlocks the 2 bosses Sonork and Demitron as playable characters.
 
-- [Deadly Arts (USA)](https://gamefaqs.gamespot.com/n64/197070-deadly-arts/cheats) aka G.A.S.P!! Fighters' NEXTream:
+- [Deadly Arts (USA)](https://gamefaqs.gamespot.com/n64/197070-deadly-arts/cheats) (aka G.A.S.P!! Fighters' NEXTream):
 Unlocks the 2 bosses Gouriki and Reiji as playable characters.
 
 - [Diddy Kong Racing (USA) (Rev A)](https://gamefaqs.gamespot.com/n64/197118-diddy-kong-racing/cheats/):
