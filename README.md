@@ -26,6 +26,9 @@ Also unlocks all the magic/cheat codes and turns on "Select same player" and "Tw
 Increases the maximum number of players in Cooperative mode from 2 to 4. This hack is a bit more involved than most of the others:
 Coop games will start with 2 to 4 players, depending on the number of controllers plugged in when the game booted.
 
+- [Killer Instinct Gold (USA) (Rev B)](https://gamefaqs.gamespot.com/n64/197715-killer-instinct-gold/cheats):
+Unlocks the boss Gargos as a playable character. Also unlocks all 5-tiers of Level Options in the Options menu, and the Gold, White and Shadow costume variants for all characters.
+
 - [Mace: The Dark Age (USA)](https://gamefaqs.gamespot.com/n64/583594-mace-the-dark-age/cheats):
 Unlocks 5 secret characters: War Mech, Ichiro, Grendal, Pojo, and Ned (a secret skin for Xiao Long). Note that Grendal, Pojo, and Ned were never intended to be directly selectable and playing them required complex setup.
 To select Grendal, highlight War Mech and press Z (pressing Z again will switch back to War Mech).
