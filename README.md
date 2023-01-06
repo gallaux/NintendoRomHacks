@@ -12,6 +12,9 @@ Unlocks 3 secret characters: Sumo Santa, Dr. Kiln, and Boogerman. Also unlocks a
 - [Clay Fighter: Sculptor's Cut (USA)](https://gamefaqs.gamespot.com/n64/574483-clayfighter-the-sculptors-cut/cheats):
 Unlocks 4 [secret characters](https://www.youtube.com/watch?v=pZLJLsobgaA) that can be accessed by first highlighting one of the two ? boxes and hitting R or L to pick a secret character: Booger Man, Earthworm Jim, High Five, and Sumo Santa.
 
+- [CyberTiger (USA)](https://gamefaqs.gamespot.com/n64/197025-cybertiger/cheats):
+Unlocks all the secret characters and alternate outfits.
+
 - [Dark Rift (USA)](https://gamefaqs.gamespot.com/n64/197049-dark-rift/cheats):
 Unlocks the 2 bosses Sonork and Demitron as playable characters.
 
@@ -64,6 +67,9 @@ Unlocks all the secret characters in Versus mode. Also allows same character sel
 
 - [Double Dragon V: The Shadow Falls (USA)](https://gamefaqs.gamespot.com/jaguar/586883-double-dragon-v-the-shadow-falls/cheats):
 Unlocks 2 secret boss characters: Dominique and Shadow Master.
+
+- [Fatal Fury 2 (USA)](https://gamefaqs.gamespot.com/snes/588324-fatal-fury-2/cheats):
+Unlocks 4 secret boss characters: Billy Kane, Axel Hawk, Laurence B. and Wolfgang Krauser.
 
 - [Fatal Fury Special (USA)](https://gamefaqs.gamespot.com/snes/588325-fatal-fury-special/cheats):
 Unlocks a secret character: Ryo Sakazaki from Art of Fighting.
