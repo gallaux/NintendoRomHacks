@@ -104,4 +104,4 @@ Unlocks 2 secret characters in Versus mode: Rat King and Karai. Unlock 2 additio
 Note: Those 4 enhancements were also available by default in the version of the game available in Teenage Mutant Ninja Turtles: The Cowabunga Collection, while the original SNES version required cheat codes.
 
 - [Yu Yu Hakusho Final: Makai Saikyou Retsuden (Japan)](https://gamefaqs.gamespot.com/snes/564851-yuu-yuu-hakusho-final/cheats):
-Unlocks a secret boss character: Yakumo (耶雲).
+Unlocks a secret boss character: Yakumo (耶雲). He is available in Versus, Training and Tournament modes.
