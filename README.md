@@ -69,7 +69,7 @@ Unlocks all the secret characters in Versus mode. Also allows same character sel
 Unlocks 2 secret boss characters: Dominique and Shadow Master.
 
 - [Fatal Fury 2 (USA)](https://gamefaqs.gamespot.com/snes/588324-fatal-fury-2/cheats):
-Unlocks 4 secret boss characters: Billy Kane, Axel Hawk, Laurence B. and Wolfgang Krauser.
+Unlocks 4 secret boss characters: Billy Kane, Axel Hawk, Lawrence B. and Wolfgang Krauser.
 
 - [Fatal Fury Special (USA)](https://gamefaqs.gamespot.com/snes/588325-fatal-fury-special/cheats):
 Unlocks a secret character: Ryo Sakazaki from Art of Fighting.
