@@ -99,6 +99,9 @@ Allows same character selection in multiplayer mode (Team Battle Royale) and the
 - [Street Fighter II (USA)](https://gamefaqs.gamespot.com/snes/588700-street-fighter-ii/cheats):
 Allows same character selection in versus mode and alternative character color palettes (aka Championship mode). Highlight a character and press Start to select the championship colors.
 
-- [Teenage Mutant Ninja Turtles: Tournament Fighters (USA)](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Tournament_Fighters#Super_NES_version)
+- [Teenage Mutant Ninja Turtles: Tournament Fighters (USA)](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Tournament_Fighters#Super_NES_version):
 Unlocks 2 secret characters in Versus mode: Rat King and Karai. Unlock 2 additional stages in Versus mode. Grants the player access to the hi-speed 3 feature in the Options menu. Allows the player to select up to 10 credits for Story Mode in the in-game options menu.
 Note: Those 4 enhancements were also available by default in the version of the game available in Teenage Mutant Ninja Turtles: The Cowabunga Collection, while the original SNES version required cheat codes.
+
+- [Yu Yu Hakusho Final: Makai Saikyou Retsuden (Japan)](https://gamefaqs.gamespot.com/snes/564851-yuu-yuu-hakusho-final/cheats):
+Unlocks a secret boss character: Yakumo (耶雲).
