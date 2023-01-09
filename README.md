@@ -44,6 +44,9 @@ Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus
 - [Quake 64 (USA)](https://gamefaqs.gamespot.com/n64/198375-quake/cheats):
 Unlocks a Debug menu in the Options, with the following features: Map selection, god mode (invincibility), all weapons, and target.
 
+- [Rakugakids (Japan/Europe)](https://gamefaqs.gamespot.com/n64/562842-rakuga-kids/cheats):
+Unlocks the 2 boss characters: Inuzo/Mudgas (to select him, hold L while choosing Mamezo) and Darkness/George. Also unlocks an "Extra Option" sub-menu in the options menu.
+
 - [Rampage 2: Universal Tour (USA)](https://gamefaqs.gamespot.com/n64/198408-rampage-2-universal-tour/cheats):
 Unlocks 6 secret characters: George, Lizzie, Ralph, Myukus, Noobus (black Myukus), Pucous (purple Myukus). The character selection screen has been heavily modified to display all 3 versions of Myukus at the same time. In multiplayer games, only one player can select one of the 3 variations since they are still considered to be the same character.
 Also unlocks a Cheat menu in the Options.
