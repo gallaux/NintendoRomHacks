@@ -42,7 +42,7 @@ Similarly, to select Ned, highlight Xiao Long and press Z (pressing Z again will
 Mario Golf for the Nintendo 64 has the ability to link and exchange data with Game Boy Color version of the same game. With the use of the Nintendo 64 Transfer Pak, the player can transfer the characters: Joe, Sherry, Azalea, and Kid from the GBC version to play through the Nintendo 64 version of Mario Golf. This hack unlocks those 4 exclusive characters without requiring transfers with the Game Boy Color game. I found most of the necessary memory addresses in a massive list of GameShark codes compiled by Fancy. Without it this hack would not have been possible.
 
 - [Mickey's Speedway USA (USA)](https://disney.fandom.com/wiki/Mickey%27s_Speedway_USA#Unlockable):
-To unlock the secret character Huey, the player would normally need to possess Mickey's Speedway USA on the Game Boy Color with data and use the Nintendo 64 Transfer Pak to transfer information to the N64 version. This hack unlocks that exclusive characters without requiring a Transfer Pak and Game Boy Color game.
+To unlock the secret character Huey, the player would normally need to possess Mickey's Speedway USA on the Game Boy Color with data and use the Nintendo 64 Transfer Pak to transfer information to the N64 version. This hack unlocks that exclusive character without requiring a Transfer Pak and Game Boy Color game.
 
 - [Mortal Kombat Trilogy (USA) (Rev B)](https://gamefaqs.gamespot.com/ps/197997-mortal-kombat-trilogy/cheats):
 Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus in the Options.
