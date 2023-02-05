@@ -47,6 +47,9 @@ To unlock the secret character Huey, the player would normally need to possess M
 - [Mortal Kombat Trilogy (USA) (Rev B)](https://gamefaqs.gamespot.com/ps/197997-mortal-kombat-trilogy/cheats):
 Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus in the Options.
 
+- [Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)](https://gamefaqs.gamespot.com/n64/915334-goemons-great-adventure/cheats) (aka Goemon's Great Adventure):
+Unlocks 4-player coop mode.
+
 - [Quake 64 (USA)](https://gamefaqs.gamespot.com/n64/198375-quake/cheats):
 Unlocks a Debug menu in the Options, with the following features: Map selection, god mode (invincibility), all weapons, and target.
 
