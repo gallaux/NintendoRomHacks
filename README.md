@@ -26,8 +26,7 @@ Unlocks 2 secret characters: Drumstick and T.T.
 Also unlocks all the magic/cheat codes and turns on "Select same player" and "Two player adventure" by default.
 
 - [Duke Nukem 64 (USA)](https://tcrf.net/Duke_Nukem_64#Number_of_Players_.28change_the_last_number_in_HEX.29):
-Increases the maximum number of players in Cooperative mode from 2 to 4. This hack is a bit more involved than most of the others:
-Coop games will start with 2 to 4 players, depending on the number of controllers plugged in when the game booted.
+Increases the maximum number of players in Cooperative mode from 2 to 4. Coop games will start with 2 to 4 players, depending on the number of controllers plugged in when the game booted.
 
 - [Killer Instinct Gold (USA) (Rev B)](https://gamefaqs.gamespot.com/n64/197715-killer-instinct-gold/cheats):
 Unlocks the boss Gargos as a playable character. Also unlocks all 5-tiers of Level Options in the Options menu, and the Gold, White and Shadow costume variants for all characters.
@@ -48,7 +47,7 @@ To unlock the secret character Huey, the player would normally need to possess M
 Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus in the Options.
 
 - [Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)](https://gamefaqs.gamespot.com/n64/915334-goemons-great-adventure/cheats) (aka Goemon's Great Adventure):
-Unlocks 4-player coop mode.
+Mystical Ninja 2 Starring Goemon (aka Goemon’s Great Adventure outside of Europe) can be played by up to 4 players once the game has been beaten and all 44 entry passes have been collected. This hacks unlocks the 4-player coop mode from the very beginning of the adventure: Start a 2-player game with all 4 controllers connected. When in game, press Right-C and Start on controller 3 and/or 4 and an extra player will appear! This will work everywhere, except in stores and houses. Note that players 3 and 4 will have infinite health and money. Every time you enter a new area, they will disappear. Press Right-C and Start to make them appear again
 
 - [Quake 64 (USA)](https://gamefaqs.gamespot.com/n64/198375-quake/cheats):
 Unlocks a Debug menu in the Options, with the following features: Map selection, god mode (invincibility), all weapons, and target.
