@@ -46,7 +46,7 @@ To unlock the secret character Huey, the player would normally need to possess M
 - [Mortal Kombat Trilogy (USA) (Rev B)](https://gamefaqs.gamespot.com/ps/197997-mortal-kombat-trilogy/cheats):
 Unlocks 2 secret characters: Human Smoke and Khameleon. Also unlocks extra menus in the Options.
 
-- [Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)](https://gamefaqs.gamespot.com/n64/915334-goemons-great-adventure/cheats) (aka Goemon's Great Adventure):
+- [Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)](https://gamefaqs.gamespot.com/n64/915334-goemons-great-adventure/cheats):
 Mystical Ninja 2 Starring Goemon (aka Goemon’s Great Adventure outside of Europe) can be played by up to 4 players once the game has been beaten and all 44 entry passes have been collected. This hacks unlocks the 4-player coop mode from the very beginning of the adventure: Start a 2-player game with all 4 controllers connected. When in game, press Right-C and Start on controller 3 and/or 4 and an extra player will appear! This will work everywhere, except in stores and houses. Note that players 3 and 4 will have infinite health and money. Every time you enter a new area, they will disappear. Press Right-C and Start to make them appear again
 
 - [Quake 64 (USA)](https://gamefaqs.gamespot.com/n64/198375-quake/cheats):
