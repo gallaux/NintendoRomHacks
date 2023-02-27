@@ -98,8 +98,8 @@ Unlocks level selection in the Option menu.
 Unlocks a Test menu that contains a sprite viewer and a (broken) sound test mode. To access it, highlight Option at the title screen, hold L and press Start.
 Level selection is also available at the title screen by pressing Y or B to increase/decrease the starting level number (The game only contains 7 levels so selecting a greater number will freeze the game).
 
-- [Peace Keepers, The (USA)](https://gamefaqs.gamespot.com/snes/588561-the-peace-keepers/cheats):
-Unlocks 2 secret characters: Norton and Orbot. Allows same character selection in Story mode. Flynn can transform into Super Flynn at will by holding R and pressing X. 
+- [Peace Keepers, The (USA) / Rushing Beat Shura (Japan)](https://gamefaqs.gamespot.com/snes/588561-the-peace-keepers/cheats):
+Unlocks 2 secret characters: Norton and Orbot/M-Frame. Allows same character selection in Story mode. Flynn/Dick can transform into Super Flynn/Dick at will by holding R and pressing X.
 
 - [Primal Rage (USA)](https://gamefaqs.gamespot.com/snes/588587-primal-rage/cheats):
 Unlocks a Cheat menu on the main menu.
