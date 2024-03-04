@@ -6,6 +6,13 @@ My hacks can also be found on [romhacking.net](https://www.romhacking.net/commun
 
 # Nintendo 64 (use Big Endian/.z64 roms)
 
+- [Bomberman Hero (USA)](https://bomberman.fandom.com/wiki/Bomber_Star):
+Hudson has a history of awarding players with additional content when their special controller for a console was connected: If a player used a Joycard 64 controller, a new option called "Bonus" would appear on the main menu.
+The Hudson controller is supposed to be used with the turbo function on the start button to access the levels. However, the controller is not required since the player can mash the button as fast as possible and unlock the content the same way.
+In a nutshell, if the player presses the Start button as fast as possible after turning on the game, it should be able to unlock the secret levels.
+Some players find this difficult while others can do it with ease. The option is lost when the game is reset and there are no other requirements to reach the secret levels.
+This hack permanently unlocks the Bonus levels without needing to use a turbo controller or mash the start button.
+
 - [ClayFighter 63⅓ (USA)](https://gamefaqs.gamespot.com/n64/196934-clayfighter-63-1-3/cheats):
 Unlocks 3 secret characters: Sumo Santa, Dr. Kiln, and Boogerman. Also unlocks a Secret Options menu in Options.
 
