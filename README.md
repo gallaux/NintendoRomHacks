@@ -73,7 +73,7 @@ Unlocks level selection in the Setup menu.
 Grants all 15 medals in both Normal (and Expert modes), which unlocks the following features: Expert mode, play on foot or tank in multiplayer mode, sound test, and alternate title screen.
 
 - [Tetrisphere (USA)](https://gamefaqs.gamespot.com/n64/198946-tetrisphere/cheats):
-Tetrisphere's Lines mode can be enabled for single player and multiplayer by entering LINES as your name and must normally be reentered every game session. This hack permanently unlock this secret mode as well as a level selection screen.
+Tetrisphere's Lines mode can be enabled for single player and multiplayer by entering LINES as your name and must normally be reentered every game session. This hack permanently unlocks this secret mode as well as a level selection screen.
 In Lines mode, pieces cannot be dropped and the player has a permanent wild card piece in hand. Chains are started by releasing a held piece by or on top of two or more of the same type of piece. Going into Lines mode and then exiting to enter Practice mode allows you to practice with Lines mode rules.
 
 - [War Gods (USA)](https://gamefaqs.gamespot.com/n64/199248-war-gods/cheats):
