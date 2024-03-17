@@ -81,6 +81,12 @@ Unlocks a Cheat menu in the Options, with the following features: Player 1/2 ski
 
 # Super Nintendo Entertainment System (SNES)
 
+- [Bishoujo Senshi Sailor Moon (Japan)](https://gamefaqs.gamespot.com/snes/564188-bishoujo-senshi-sailor-moon/cheats):
+Allows same character selection in 2-player mode.
+
+- [Bishoujo Senshi Sailor Moon R (Japan)](https://www.absolutcheats.com/snes/pretty-soldier-sailor-moon-r-cheats):
+Allows same character selection in 2-player modes.
+
 - [Brutal: Paws of Fury (USA)](https://gamefaqs.gamespot.com/snes/563531-brutal-paws-of-fury/cheats):
 Unlocks a secret boss character: Dali Llama.
 
