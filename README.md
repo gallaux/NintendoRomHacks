@@ -76,6 +76,8 @@ Grants all 15 medals in both Normal (and Expert modes), which unlocks the follow
 Tetrisphere's Lines mode can be enabled for single player and multiplayer by entering LINES as your name and must normally be reentered every game session. This hack permanently unlocks this secret mode as well as a level selection screen.
 In Lines mode, pieces cannot be dropped and the player has a permanent wild card piece in hand. Chains are started by releasing a held piece by or on top of two or more of the same type of piece. Going into Lines mode and then exiting to enter Practice mode allows you to practice with Lines mode rules.
 
+- [Transformers: Beast Wars Transmetals](https://tfwiki.net/wiki/Transformers:_Beast_Wars_Transmetals_(N64)):
+
 - [War Gods (USA)](https://gamefaqs.gamespot.com/n64/199248-war-gods/cheats):
 Unlocks a Cheat menu in the Options, with the following features: Player 1/2 skill level, Level selection, game timer, and easy fatality.
 
