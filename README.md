@@ -84,11 +84,8 @@ Unlocks a Cheat menu in the Options, with the following features: Player 1/2 ski
 - [WWF No Mercy (USA) (Rev A)](https://tcrf.net/WWF_No_Mercy):
 The game was supposed to have Transfer Pak functionality to take your created wrestler in the Game Boy Color version and place him in the Nintendo 64 version. Once the GBC version was cancelled, the mode was dummied out, but it's still accessible via this hack.
 Go into the Smackdown Mall. Choose "Clone Superstar" and clone it to the "Data 512" slot, which is in the newly-opened "Superstars 6" group. Now the mode will be accessible in Championship Mode.
-Winning the Championship results in a message that your Game Boy Color character is now playable on your N64 No Mercy cart.
-This mode was fully written, and seems to take advantage of the fact that it can tell a unique story without involving the player character. In every other Championship mode, the opposite is the case, necessary for getting Attitude Era catchphrases and the like in.
-Opponents are all completely in-character, at least in as much as No Mercy portrayed them - Angle's cutscenes involve plenty of "It's true!", for example. Some of the cutscenes, most notably Taka's and the one that comes after the Handicap Match, are fairly humorous as well.
-Unlike other Championships, there is no title defense secondary story path - your Game Boy Color character would get saved into an open slot, and that's it.
 Listed as "No Mercy Game Boy Color" in the Championship menu, it consists of eight matches. There are no branching paths, and your player character plays no role in the plot.
+Winning the Championship results in a message that your Game Boy Color character is now playable on your N64 No Mercy cart.
 
 # Super Nintendo Entertainment System (SNES)
 
