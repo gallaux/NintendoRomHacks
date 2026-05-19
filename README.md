@@ -129,6 +129,9 @@ Unlocks 2 secret characters: Norton and Orbot/M-Frame. Allows same character sel
 - [Primal Rage (USA)](https://gamefaqs.gamespot.com/snes/588587-primal-rage/cheats):
 Unlocks a Cheat menu on the main menu.
 
+- [Ranma 1/2: Hard Battle (USA)](https://gamefaqs.gamespot.com/snes/588600-ranma-1-2-hard-battle/cheats):
+Unlocks 2 secret boss characters: Pantyhose Taro (in his human and cursed forms).
+
 - [Saturday Night Slam Masters (USA)](https://gamefaqs.gamespot.com/snes/588642-saturday-night-slam-masters/cheats):
 Allows same character selection in multiplayer mode (Team Battle Royale) and the use of Scorpion and Jumbo in Single Match mode (note that their character icons will remain invisible on the select screen).
 
