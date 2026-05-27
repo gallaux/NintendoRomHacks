@@ -119,6 +119,10 @@ Unlocks a Test/Debug menu with tons of options. To access it, hold select at the
 - [Iron Commando: Koutetsu no Senshi (Japan)](https://gamefaqs.gamespot.com/snes/571224-iron-commando-koutetsu-no-senshi/cheats):
 Unlocks level selection in the Option menu.
 
+- [Mega Man 7 (USA)](https://gamefaqs.gamespot.com/snes/588477-mega-man-7/cheats)
+Adds a 4th entry to the main menu 'DUEL MODE', which directly opens up the secret 2-player Versus/Duel mode (normally only accessible via a password + button combination).
+The Versus mode menu can also now be exited by pressing either X or A.
+
 - [Mighty Morphin Power Rangers: The Movie (USA)](https://tcrf.net/Mighty_Morphin_Power_Rangers:_The_Movie_(SNES)#Test_Mode):
 Unlocks a Test menu that contains a sprite viewer and a (broken) sound test mode. To access it, highlight Option at the title screen, hold L and press Start.
 Level selection is also available at the title screen by pressing Y or B to increase/decrease the starting level number (The game only contains 7 levels so selecting a greater number will freeze the game).
