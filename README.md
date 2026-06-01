@@ -143,10 +143,7 @@ Allows same character selection in multiplayer mode (Team Battle Royale) and the
 Allows same character selection in versus mode and alternative character color palettes (aka Championship mode). Highlight a character and press Start to select the championship colors.
 
 - [Super Punch-Out (USA)](https://github.com/gallaux/super-punch-out-special-edition):
-Addition of Versus Mode on the main Mode Select menu.
-Fixed Mr. Sandman's Stats that were incorrectly copy pasted from Super Macho Man. His stats now match the Japanese Version/Manual.
-Japanese character set accessible on the name registration menu (Press L/R to cycle the different sets) without needing to input a secret button combination.
-Disable the checksum security check that prevents the Special Circuit from unlocking when using save states, emulators (SNES Classic, Switch NSO), or patched ROMs.
+Extensive 'Special Edition' hack. For more info visit https://github.com/gallaux/Super-Punch-Out-Special-Edition
 
 - [Teenage Mutant Ninja Turtles: Tournament Fighters (USA)](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Tournament_Fighters#Super_NES_version):
 Unlocks 2 secret characters in Versus mode: Rat King and Karai. Unlock 2 additional stages in Versus mode. Grants the player access to the hi-speed 3 feature in the Options menu. Allows the player to select up to 10 credits for Story Mode in the in-game options menu.
